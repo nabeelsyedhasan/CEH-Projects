@@ -15,7 +15,7 @@ This project documents the process of identifying and exploiting various vulnera
 4. [Tools Used](#tools-used)
 5. [Screenshots](#screenshots)
 6. [Writeups](#writeups)
-   - [SQL Injection Writeup](sql-injection.md)
+   - [SQL Injection Writeup](CEH-Projects/dvwa-assessment/writeups/sql-injection.md)
    - [File Upload Vulnerability Writeup](file-upload.md)
 
 ---
