@@ -51,7 +51,7 @@ The following steps were performed to set up DVWA using Docker:
    ```
 
 Refer to the screenshot below for the commands executed:
-![Installing DVWA Using Docker](![installing dvwa using docker Screenshot 2025-01-13 031714](https://github.com/user-attachments/assets/2b7ba66e-c526-4b87-8d1e-35932f432ab4)
+![Installing DVWA Using Docker]((https://github.com/user-attachments/assets/2b7ba66e-c526-4b87-8d1e-35932f432ab4)
 )
 
 4. Access the application at `http://127.0.0.1` and set the **security level to Low**.
@@ -112,13 +112,13 @@ For a detailed writeup, see: [File Upload Vulnerability Writeup](file-upload.md)
 ---
 
 ## **Screenshots**
-1. ([SQLmap Command Execution]((https://github.com/user-attachments/assets/9be88cbf-7e4f-45ee-8f6d-942268c6ecfd))
+1. ![SQLmap Command Execution]((https://github.com/user-attachments/assets/9be88cbf-7e4f-45ee-8f6d-942268c6ecfd))
    
-2. ([SQLmap Results]((https://github.com/user-attachments/assets/2ea824fc-d18e-43b7-8d4c-1dc6347768e2)
+2. ![SQLmap Results]((https://github.com/user-attachments/assets/2ea824fc-d18e-43b7-8d4c-1dc6347768e2)
 )
-3. ([Nikto Scan Results]((https://github.com/user-attachments/assets/c5d334f2-ca77-47e4-97e0-f3206880479c)
+3. ![Nikto Scan Results]((https://github.com/user-attachments/assets/c5d334f2-ca77-47e4-97e0-f3206880479c)
 )
-4. ([Reverse Shell Connection]((https://github.com/user-attachments/assets/3dc931c8-7e55-4e63-aa7d-3310bcc36991)
+4. ![Reverse Shell Connection]((https://github.com/user-attachments/assets/3dc931c8-7e55-4e63-aa7d-3310bcc36991)
 )
 
 ---
