@@ -33,10 +33,10 @@ sqlmap -u "http://127.0.0.1/vulnerabilities/sqli/?id=1&Submit=Submit" \
   - `dvwa`
 
 Refer to the screenshots:
-- ![SQLmap-Command-Execution](https://github.com/user-attachments/assets/eca722b8-387a-4a0b-8ea8-ccffd9907ebf)
+![SQLmap-Command-Execution](https://github.com/user-attachments/assets/eca722b8-387a-4a0b-8ea8-ccffd9907ebf)
 <p align="center">SQLmap Command Execution</p>
-* *
-- ![SQLmap-Results](https://github.com/user-attachments/assets/f971f898-4c24-48f0-bcbd-274c193a59cd)
+
+![SQLmap-Results](https://github.com/user-attachments/assets/f971f898-4c24-48f0-bcbd-274c193a59cd)
 <p align="center">SQLmap-Results</p>
 
 ---
