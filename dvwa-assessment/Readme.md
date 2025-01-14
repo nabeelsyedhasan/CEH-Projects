@@ -15,8 +15,9 @@ This project documents the process of identifying and exploiting various vulnera
 4. [Tools Used](#tools-used)
 5. [Screenshots](#screenshots)
 6. [Writeups](#writeups)
-   - [SQL Injection Writeup](CEH-Projects/dvwa-assessment/writeups/sql-injection.md)
-   - [File Upload Vulnerability Writeup](file-upload.md)
+   - [SQL Injection Writeup](writeups/sql-injection.md)
+   - [File Upload Vulnerability Writeup](writeups/file-upload.md)
+   - [General Vulnerability Testing Using Nikto](writeups/nikto-scan.md)
 
 ---
 
